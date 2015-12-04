@@ -19,6 +19,9 @@ public class JavaApplication8 {
         // TODO code application logic here
         // add a commit
         System.out.println("hello world");
+        System.out.println("hello world");
+         System.out.println("hello world");
+        System.out.println("hello world");
     }
     
 }
